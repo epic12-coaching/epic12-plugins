@@ -1,0 +1,14 @@
+{
+  "name": "epic12",
+  "description": "Plugin Claude pour dirigeants de startups et scale-ups : les questions de leader, cadrées par la méthode EPIC12.",
+  "owner": {
+    "name": "EPIC12"
+  },
+  "plugins": [
+    {
+      "name": "epic12",
+      "source": "./plugins/epic12",
+      "description": "Plugin Claude pour dirigeants de startups et scale-ups : les questions de leader, cadrées par la méthode EPIC12."
+    }
+  ]
+}
