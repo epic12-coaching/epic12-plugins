@@ -8,3 +8,4 @@ Dans claude.ai : Personnaliser > Plugins > Ajouter > Ajouter un marketplace, pui
 ## Commandes
 - `/epic12` : la porte d'entrée, pour poser son sujet du moment.
 - `/comex-au-niveau` : mon Comex est-il une bonne équipe ?
+- `/c-level-au-niveau` : mon C-level est-il au niveau ?
